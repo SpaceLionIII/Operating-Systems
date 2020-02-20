@@ -1,2 +1,3 @@
 Booting is the process of starting the computer operating system. It checks the computer and makes sure it's ready to work. It is usually initiated by a button press.
 Disk Management is the process of viewing and managing disk drives. It is a built-in tool that helps you manage disk partitions without rebooting. You can also change the drive letter and paths.
+Device control is a function that can restrict user access to devices. You can block devices from CD/DVD drives to printers. It can be beneficial to Businesses and Schools.
