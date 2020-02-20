@@ -1,0 +1,1 @@
+Booting is the process of starting the computer operating system. It checks the computer and makes sure it's ready to work. It is usually initiated by a button press.
